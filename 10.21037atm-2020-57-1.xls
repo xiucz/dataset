@@ -1,4 +1,4 @@
-Age group	Sex	Race	Primary site	Grade	Stage	Chemotherapy	Status	Cause specific death classification	Survival months
+AgeGroup	Sex	Race	PrimarySite	Grade	Stage	Chemotherapy	Status	Cause specific death classification	Survival months
 60-69	Male	White	Lower	GradeIII	IV	No/unknown	Dead	Dead (attributable to this cancer dx)	14
 70-79	Male	Other	Lower	GradeIII	IV	No/unknown	Dead	Dead (attributable to this cancer dx)	1
 60-69	Female	White	Lower	GradeII	I	No/unknown	Alive	Alive	18
